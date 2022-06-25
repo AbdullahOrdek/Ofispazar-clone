@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ürünler Listesi Liste Kontrolü Snapshot Testi 1`] = `
+"<div class=\\"arkaplan\\">
+  <router-link-stub tag=\\"div\\" to=\\"[object Object]\\" class=\\"urunkart\\"><img src=\\"https://i.hizliresim.com/hhpqxfp.jpg\\" style=\\"height: 170px;\\">
+    <p id=\\"detay\\"> Fotokopi Kiralama /1 Ay - Yazıcı -Tarayıcı- Faks- A3 -Network</p>
+    <p id=\\"fiyat\\"> 589.00 TL</p>
+  </router-link-stub>
+  <router-link-stub tag=\\"div\\" to=\\"[object Object]\\" class=\\"urunkart\\"><img src=\\"https://i.hizliresim.com/fte3dku.jpg\\" style=\\"height: 170px;\\">
+    <p id=\\"detay\\"> Kyocera M3645DN Fotokopi Yazıcı Tarayıcı Faks</p>
+    <p id=\\"fiyat\\"> 14884.00 TL</p>
+  </router-link-stub>
+  <router-link-stub tag=\\"div\\" to=\\"[object Object]\\" class=\\"urunkart\\"><img src=\\"https://i.hizliresim.com/przaxcq.jpg\\" style=\\"height: 170px;\\">
+    <p id=\\"detay\\"> Fotokopi Kiralama /1 Ay - Yazıcı -Tarayıcı- Faks- A4 -Network</p>
+    <p id=\\"fiyat\\"> 399.00 TL</p>
+  </router-link-stub>
+</div>"
+`;

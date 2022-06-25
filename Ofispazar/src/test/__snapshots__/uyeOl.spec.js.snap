@@ -1,0 +1,464 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`uyeOl Snapshot Testi 1`] = `
+"<div class=\\"renk\\">
+  <div>
+    <div class=\\"bgcolor\\">
+      <div id=\\"baslik\\"><img src=\\"src/assets/ev.png\\" alt=\\"\\"> <span><router-link-stub to=\\"/\\" class=\\"nav1\\">ANASAYFA</router-link-stub></span> <span><router-link-stub to=\\"/hakkımızda\\" class=\\"nav1\\">HAKKIMIZDA</router-link-stub></span> <span class=\\"nav1\\">SİPARİŞ TAKİBİ</span> <span class=\\"nav1\\">İLETİŞİM</span>
+        <ul class=\\"navBar\\">
+          <router-link-stub to=\\"/login\\" tag=\\"li\\" class=\\"list\\"><img src=\\"src/assets/profil.png\\" alt=\\"yok\\" class=\\"img\\" style=\\"margin-top: 3px; text-decoration: none; margin-left: 5px;\\"><a class=\\"hov\\" style=\\"text-decoration: none;\\"> Üye Girişi </a></router-link-stub>
+          <!---->
+          <router-link-stub to=\\"/uyeOl\\" tag=\\"li\\" class=\\"list\\"><img src=\\"src/assets/profil2.png\\" alt=\\"yok\\" class=\\"img\\" style=\\"margin-top: 3px; text-decoration: none; margin-left: 5px;\\"><a class=\\"hov\\" style=\\"text-decoration: none;\\"> Kayıt Ol </a></router-link-stub>
+          <!---->
+        </ul>
+      </div>
+    </div>
+    <div class=\\"renkke\\">
+      <div class=\\"arkaplan\\">
+        <div class=\\"topnav\\"><img src=\\"src/assets/logogo.png\\" alt=\\"\\"> <img src=\\"\\" alt=\\"\\"> <img src=\\"src/assets/arama.png\\" alt=\\"\\" class=\\"aramabuton\\"> <input type=\\"text\\" placeholder=\\"Arama\\"></div>
+        <div class=\\"sepeet\\">
+          <ul class=\\"navBar\\">
+            <router-link-stub tag=\\"li\\" to=\\"/uyegirisi\\" class=\\"list\\" style=\\"text-decoration: none;\\"><img src=\\"src/assets/whatsap.png\\" alt=\\"\\" class=\\"whatsapp\\"></router-link-stub>
+            <li class=\\"sepke\\">
+              <router-link-stub to=\\"/sepetim\\" class=\\"sepkee\\"><svg aria-hidden=\\"true\\" focusable=\\"false\\" data-prefix=\\"fas\\" data-icon=\\"shopping-cart\\" role=\\"img\\" xmlns=\\"http://www.w3.org/2000/svg\\" viewBox=\\"0 0 576 512\\" class=\\"sepeticon svg-inline--fa fa-shopping-cart fa-w-18\\">
+                  <path fill=\\"currentColor\\" d=\\"M528.12 301.319l47.273-208C578.806 78.301 567.391 64 551.99 64H159.208l-9.166-44.81C147.758 8.021 137.93 0 126.529 0H24C10.745 0 0 10.745 0 24v16c0 13.255 10.745 24 24 24h69.883l70.248 343.435C147.325 417.1 136 435.222 136 456c0 30.928 25.072 56 56 56s56-25.072 56-56c0-15.674-6.447-29.835-16.824-40h209.647C430.447 426.165 424 440.326 424 456c0 30.928 25.072 56 56 56s56-25.072 56-56c0-22.172-12.888-41.332-31.579-50.405l5.517-24.276c3.413-15.018-8.002-29.319-23.403-29.319H218.117l-6.545-32h293.145c11.206 0 20.92-7.754 23.403-18.681z\\" class=\\"\\"></path>
+                </svg> <span id=\\"lblCartCount\\" class=\\"badge badge-warning badgee\\"></span><br>
+                <p class=\\"sepo\\">Sepetim</p>
+              </router-link-stub>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class=\\"arkaplan1\\">
+    <div class=\\"dropdown\\"><button class=\\"dropbtn\\">☰ Tüm Kategoriler ▼ </button>
+      <div class=\\"dropdown-content\\">
+        <router-link-stub tag=\\"a\\" to=\\"/sayfa2\\">Fotokopi Yazıcı Ürünleri</router-link-stub>
+        <router-link-stub tag=\\"a\\" to=\\"/sayfa2\\">Tüketici Elektroniği</router-link-stub>
+        <router-link-stub tag=\\"a\\" to=\\"/sayfa2\\">Bilgisayar Ürünleri</router-link-stub>
+        <router-link-stub tag=\\"a\\" to=\\"/sayfa2\\">Sarf Malzeme &amp; Yedek Parça</router-link-stub>
+        <router-link-stub tag=\\"a\\" to=\\"/sayfa2\\">Baskı Çözümleri</router-link-stub>
+      </div>
+    </div>
+    <ul>
+      <li>
+        <router-link-stub to=\\"/\\" tag=\\"a\\">İletişim</router-link-stub>
+      </li>
+      <li>
+        <router-link-stub tag=\\"a\\" to=\\"/sayfa3\\">Gizlilik ve Kullanım Şartları</router-link-stub>
+      </li>
+      <li>
+        <router-link-stub tag=\\"a\\" to=\\"/sayfa4\\">Kargo ve Taşıma Bilgileri</router-link-stub>
+      </li>
+      <li>
+        <router-link-stub tag=\\"a\\" to=\\"/sayfa5\\">Mesafeli Satış Sözleşmesi</router-link-stub>
+      </li>
+      <li>
+        <router-link-stub tag=\\"a\\" to=\\"/sayfa6\\">Garanti ve İade</router-link-stub>
+      </li>
+    </ul>
+  </div>
+  <div class=\\"arkaplan\\">
+    <div class=\\"baslik1\\"><img src=\\"src/assets/yıldız.png\\" alt=\\"\\"> <span class=\\"fontsize\\">Üyelik Formu</span></div> <label class=\\"sf-form-header\\">E-posta Adresiniz</label>
+    <form><label class=\\"sf-text-label\\">Adınız</label><input type=\\"text\\" required=\\"required\\" placeholder=\\"Adınızı Giriniz\\" style=\\"margin-left: 150px;\\"><br> <label class=\\"sf-text-label\\">Soyadınız</label><input type=\\"text\\" required=\\"required\\" placeholder=\\"Soyadınızı Giriniz\\" style=\\"margin-left: 127px;\\"><br> <label class=\\"sf-text-label\\">Email Adresiniz</label> <input type=\\"email\\" required=\\"required\\" placeholder=\\"Email Giriniz\\" style=\\"margin-left: 83px;\\"><br> <label class=\\"sf-text-label\\">Şifreniz</label><input required=\\"required\\" type=\\"password\\" placeholder=\\"Parola Giriniz\\" style=\\"margin-left: 142px;\\"> <input type=\\"submit\\" value=\\"Gönder\\" class=\\"register_button\\" style=\\"margin-left: 150px;\\"></form>
+    <div class=\\"error\\">
+
+    </div>
+    <ul class=\\"register\\">
+      <li class=\\"sf-form-header\\">Kişisel Bilgiler</li>
+      <li class=\\"sf-form-item-fullwidth\\">
+        <div><label class=\\"sf-text-label\\">Adınız</label><input placeholder=\\"\\" onfocus=\\"lastFocusedId=this.id\\" id=\\"gf_name\\" type=\\"text\\" name=\\"data_name\\" value=\\"\\" class=\\"sf-form-input gf_name\\"><sup style=\\"color: red; vertical-align: top;\\">*</sup><span title=\\"\\" id=\\"gf_info_name\\" class=\\"gf_info\\"></span></div>
+      </li>
+      <li class=\\"sf-form-item-fullwidth\\">
+        <div><label class=\\"sf-text-label\\">Soyadınız</label><input placeholder=\\"\\" onfocus=\\"lastFocusedId=this.id\\" id=\\"gf_lastname\\" type=\\"text\\" name=\\"data_lastname\\" value=\\"\\" class=\\"sf-form-input gf_lastname\\"><sup style=\\"color: red; vertical-align: top;\\">*</sup><span title=\\"\\" id=\\"gf_info_lastname\\" class=\\"gf_info\\"></span></div>
+      </li>
+      <div class=\\"bireysel\\">
+        <li class=\\"sf-form-item-fullwidth\\">
+          <div><label class=\\"sf-text-label\\">Doğum Tarihiniz</label>
+            <table cellspacing=\\"0\\" cellpadding=\\"0\\">
+              <tbody>
+                <tr>
+                  <td><select id=\\"gf_birthdate_gun\\" name=\\"tarih_birthdate_gun\\" class=\\"sf-form-select st-gun\\">
+                      <option value=\\"\\">Gün</option>
+                      <option value=\\"1\\">1</option>
+                      <option value=\\"2\\">2</option>
+                      <option value=\\"3\\">3</option>
+                      <option value=\\"4\\">4</option>
+                      <option value=\\"5\\">5</option>
+                      <option value=\\"6\\">6</option>
+                      <option value=\\"7\\">7</option>
+                      <option value=\\"8\\">8</option>
+                      <option value=\\"9\\">9</option>
+                      <option value=\\"10\\">10</option>
+                      <option value=\\"11\\">11</option>
+                      <option value=\\"12\\">12</option>
+                      <option value=\\"13\\">13</option>
+                      <option value=\\"14\\">14</option>
+                      <option value=\\"15\\">15</option>
+                      <option value=\\"16\\">16</option>
+                      <option value=\\"17\\">17</option>
+                      <option value=\\"18\\">18</option>
+                      <option value=\\"19\\">19</option>
+                      <option value=\\"20\\">20</option>
+                      <option value=\\"21\\">21</option>
+                      <option value=\\"22\\">22</option>
+                      <option value=\\"23\\">23</option>
+                      <option value=\\"24\\">24</option>
+                      <option value=\\"25\\">25</option>
+                      <option value=\\"26\\">26</option>
+                      <option value=\\"27\\">27</option>
+                      <option value=\\"28\\">28</option>
+                      <option value=\\"29\\">29</option>
+                      <option value=\\"30\\">30</option>
+                      <option value=\\"31\\">31</option>
+                    </select></td>
+                  <td><select id=\\"gf_birthdate_ay\\" name=\\"tarih_birthdate_ay\\" class=\\"sf-form-select st-ay\\">
+                      <option value=\\"\\">Ay</option>
+                      <option value=\\"1\\">Ocak</option>
+                      <option value=\\"2\\">Şubat</option>
+                      <option value=\\"3\\">Mart</option>
+                      <option value=\\"4\\">Nisan</option>
+                      <option value=\\"5\\">Mayıs</option>
+                      <option value=\\"6\\">Haziran</option>
+                      <option value=\\"7\\">Temmuz</option>
+                      <option value=\\"8\\">Ağustos</option>
+                      <option value=\\"9\\">Eylül</option>
+                      <option value=\\"10\\">Ekim</option>
+                      <option value=\\"11\\">Kasım</option>
+                      <option value=\\"12\\">Aralık</option>
+                    </select></td>
+                  <td><select id=\\"gf_birthdate_yil\\" name=\\"tarih_birthdate_yil\\" class=\\"sf-form-select st-yil\\">
+                      <option value=\\"\\">Yıl</option>
+                      <option value=\\"2022\\">2022</option>
+                      <option value=\\"2021\\">2021</option>
+                      <option value=\\"2020\\">2020</option>
+                      <option value=\\"2019\\">2019</option>
+                      <option value=\\"2018\\">2018</option>
+                      <option value=\\"2017\\">2017</option>
+                      <option value=\\"2016\\">2016</option>
+                      <option value=\\"2015\\">2015</option>
+                      <option value=\\"2014\\">2014</option>
+                      <option value=\\"2013\\">2013</option>
+                      <option value=\\"2012\\">2012</option>
+                      <option value=\\"2011\\">2011</option>
+                      <option value=\\"2010\\">2010</option>
+                      <option value=\\"2009\\">2009</option>
+                      <option value=\\"2008\\">2008</option>
+                      <option value=\\"2007\\">2007</option>
+                      <option value=\\"2006\\">2006</option>
+                      <option value=\\"2005\\">2005</option>
+                      <option value=\\"2004\\">2004</option>
+                      <option value=\\"2003\\">2003</option>
+                      <option value=\\"2002\\">2002</option>
+                      <option value=\\"2001\\">2001</option>
+                      <option value=\\"2000\\">2000</option>
+                      <option value=\\"1999\\">1999</option>
+                      <option value=\\"1998\\">1998</option>
+                      <option value=\\"1997\\">1997</option>
+                      <option value=\\"1996\\">1996</option>
+                      <option value=\\"1995\\">1995</option>
+                      <option value=\\"1994\\">1994</option>
+                      <option value=\\"1993\\">1993</option>
+                      <option value=\\"1992\\">1992</option>
+                      <option value=\\"1991\\">1991</option>
+                      <option value=\\"1990\\">1990</option>
+                      <option value=\\"1989\\">1989</option>
+                      <option value=\\"1988\\">1988</option>
+                      <option value=\\"1987\\">1987</option>
+                      <option value=\\"1986\\">1986</option>
+                      <option value=\\"1985\\">1985</option>
+                      <option value=\\"1984\\">1984</option>
+                      <option value=\\"1983\\">1983</option>
+                      <option value=\\"1982\\">1982</option>
+                      <option value=\\"1981\\">1981</option>
+                      <option value=\\"1980\\">1980</option>
+                      <option value=\\"1979\\">1979</option>
+                      <option value=\\"1978\\">1978</option>
+                      <option value=\\"1977\\">1977</option>
+                      <option value=\\"1976\\">1976</option>
+                      <option value=\\"1975\\">1975</option>
+                      <option value=\\"1974\\">1974</option>
+                      <option value=\\"1973\\">1973</option>
+                      <option value=\\"1972\\">1972</option>
+                      <option value=\\"1971\\">1971</option>
+                      <option value=\\"1970\\">1970</option>
+                      <option value=\\"1969\\">1969</option>
+                      <option value=\\"1968\\">1968</option>
+                      <option value=\\"1967\\">1967</option>
+                      <option value=\\"1966\\">1966</option>
+                      <option value=\\"1965\\">1965</option>
+                      <option value=\\"1964\\">1964</option>
+                      <option value=\\"1963\\">1963</option>
+                      <option value=\\"1962\\">1962</option>
+                      <option value=\\"1961\\">1961</option>
+                      <option value=\\"1960\\">1960</option>
+                      <option value=\\"1959\\">1959</option>
+                      <option value=\\"1958\\">1958</option>
+                      <option value=\\"1957\\">1957</option>
+                      <option value=\\"1956\\">1956</option>
+                      <option value=\\"1955\\">1955</option>
+                      <option value=\\"1954\\">1954</option>
+                      <option value=\\"1953\\">1953</option>
+                      <option value=\\"1952\\">1952</option>
+                      <option value=\\"1951\\">1951</option>
+                      <option value=\\"1950\\">1950</option>
+                      <option value=\\"1949\\">1949</option>
+                      <option value=\\"1948\\">1948</option>
+                      <option value=\\"1947\\">1947</option>
+                      <option value=\\"1946\\">1946</option>
+                      <option value=\\"1945\\">1945</option>
+                      <option value=\\"1944\\">1944</option>
+                      <option value=\\"1943\\">1943</option>
+                      <option value=\\"1942\\">1942</option>
+                      <option value=\\"1941\\">1941</option>
+                      <option value=\\"1940\\">1940</option>
+                      <option value=\\"1939\\">1939</option>
+                      <option value=\\"1938\\">1938</option>
+                      <option value=\\"1937\\">1937</option>
+                      <option value=\\"1936\\">1936</option>
+                      <option value=\\"1935\\">1935</option>
+                      <option value=\\"1934\\">1934</option>
+                      <option value=\\"1933\\">1933</option>
+                      <option value=\\"1932\\">1932</option>
+                      <option value=\\"1931\\">1931</option>
+                      <option value=\\"1930\\">1930</option>
+                      <option value=\\"1929\\">1929</option>
+                      <option value=\\"1928\\">1928</option>
+                      <option value=\\"1927\\">1927</option>
+                      <option value=\\"1926\\">1926</option>
+                      <option value=\\"1925\\">1925</option>
+                      <option value=\\"1924\\">1924</option>
+                      <option value=\\"1923\\">1923</option>
+                      <option value=\\"1922\\">1922</option>
+                    </select></td>
+                </tr>
+              </tbody>
+            </table><sup style=\\"color: red; vertical-align: top;\\">*</sup><span title=\\"\\" id=\\"gf_info_birthdate\\" class=\\"gf_info\\"></span>
+          </div>
+        </li>
+        <li class=\\"sf-form-item-fullwidth\\">
+          <div><label class=\\"sf-text-label\\">TC Kimlik Numaranız</label><input placeholder=\\"\\" onfocus=\\"lastFocusedId=this.id\\" id=\\"gf_tckNo\\" type=\\"text\\" name=\\"data_tckNo\\" value=\\"\\" class=\\"sf-form-input gf_tckNo\\"></div>
+        </li>
+      </div>
+      <div class=\\"kurumsal\\">
+        <li class=\\"sf-form-header\\"></li>
+        <li class=\\"sf-form-item-fullwidth\\">
+          <div><label class=\\"sf-text-label\\">Vergi Daireniz</label><input placeholder=\\"\\" onfocus=\\"lastFocusedId=this.id\\" id=\\"gf_vergiDaire\\" type=\\"text\\" name=\\"data_vergiDaire\\" value=\\"\\" class=\\"sf-form-input gf_vergiDaire\\"></div>
+        </li>
+        <li class=\\"sf-form-item-fullwidth\\">
+          <div><label class=\\"sf-text-label\\">Vergi Numaranız</label><input placeholder=\\"\\" onfocus=\\"lastFocusedId=this.id\\" id=\\"gf_vergiNo\\" type=\\"text\\" name=\\"data_vergiNo\\" value=\\"\\" class=\\"sf-form-input gf_vergiNo\\"></div>
+        </li>
+        <li class=\\"sf-form-item-fullwidth\\">
+          <div><label class=\\"sf-text-label\\">E-Fatura</label><select id=\\"gf_efatura\\" name=\\"data_efatura\\" class=\\"sf-form-select\\">
+              <option value=\\"\\">Lütfen Seçin</option>
+              <option value=\\"Evet\\">Evet</option>
+              <option value=\\"Hayır\\">Hayır</option>
+            </select></div>
+        </li>
+      </div>
+      <li class=\\"sf-form-header\\">İletisim Bilgileri</li>
+      <li class=\\"sf-form-item-fullwidth\\">
+        <div><label class=\\"sf-text-label\\">Şehir</label><select secili=\\"\\" id=\\"gf_city\\" name=\\"data_city\\" class=\\"sf-form-select\\">
+            <option value=\\"\\">Lütfen Seçin</option>
+            <option value=\\"1\\">Adana</option>
+            <option value=\\"2\\">Adıyaman</option>
+            <option value=\\"3\\">Afyon</option>
+            <option value=\\"4\\">Ağrı</option>
+            <option value=\\"68\\">Aksaray</option>
+            <option value=\\"5\\">Amasya</option>
+            <option value=\\"6\\">Ankara</option>
+            <option value=\\"7\\">Antalya</option>
+            <option value=\\"75\\">Ardahan</option>
+            <option value=\\"8\\">Artvin</option>
+            <option value=\\"9\\">Aydın</option>
+            <option value=\\"10\\">Balıkesir</option>
+            <option value=\\"74\\">Bartın</option>
+            <option value=\\"72\\">Batman</option>
+            <option value=\\"69\\">Bayburt</option>
+            <option value=\\"11\\">Bilecik</option>
+            <option value=\\"12\\">Bingöl</option>
+            <option value=\\"13\\">Bitlis</option>
+            <option value=\\"14\\">Bolu</option>
+            <option value=\\"15\\">Burdur</option>
+            <option value=\\"16\\">Bursa</option>
+            <option value=\\"17\\">Çanakkale</option>
+            <option value=\\"18\\">Çankırı</option>
+            <option value=\\"19\\">Çorum</option>
+            <option value=\\"20\\">Denizli</option>
+            <option value=\\"21\\">Diyarbakır</option>
+            <option value=\\"81\\">Düzce</option>
+            <option value=\\"22\\">Edirne</option>
+            <option value=\\"23\\">Elazığ</option>
+            <option value=\\"24\\">Erzincan</option>
+            <option value=\\"25\\">Erzurum</option>
+            <option value=\\"26\\">Eskişehir</option>
+            <option value=\\"27\\">Gaziantep</option>
+            <option value=\\"28\\">Giresun</option>
+            <option value=\\"29\\">Gümüşhane</option>
+            <option value=\\"30\\">Hakkari</option>
+            <option value=\\"31\\">Hatay</option>
+            <option value=\\"76\\">Iğdır</option>
+            <option value=\\"32\\">Isparta</option>
+            <option value=\\"33\\">İçel</option>
+            <option value=\\"34\\">İstanbul</option>
+            <option value=\\"35\\">İzmir</option>
+            <option value=\\"46\\">K.Maraş</option>
+            <option value=\\"78\\">Karabük</option>
+            <option value=\\"70\\">Karaman</option>
+            <option value=\\"36\\">Kars</option>
+            <option value=\\"37\\">Kastamonu</option>
+            <option value=\\"38\\">Kayseri</option>
+            <option value=\\"71\\">Kırıkkale</option>
+            <option value=\\"39\\">Kırklareli</option>
+            <option value=\\"40\\">Kırşehir</option>
+            <option value=\\"79\\">Kilis</option>
+            <option value=\\"41\\">Kocaeli</option>
+            <option value=\\"42\\">Konya</option>
+            <option value=\\"43\\">Kütahya</option>
+            <option value=\\"44\\">Malatya</option>
+            <option value=\\"45\\">Manisa</option>
+            <option value=\\"47\\">Mardin</option>
+            <option value=\\"33\\">Mersin</option>
+            <option value=\\"48\\">Muğla</option>
+            <option value=\\"49\\">Muş</option>
+            <option value=\\"50\\">Nevşehir</option>
+            <option value=\\"51\\">Niğde</option>
+            <option value=\\"52\\">Ordu</option>
+            <option value=\\"80\\">Osmaniye</option>
+            <option value=\\"53\\">Rize</option>
+            <option value=\\"54\\">Sakarya</option>
+            <option value=\\"55\\">Samsun</option>
+            <option value=\\"56\\">Siirt</option>
+            <option value=\\"57\\">Sinop</option>
+            <option value=\\"58\\">Sivas</option>
+            <option value=\\"63\\">Şanlıurfa</option>
+            <option value=\\"73\\">Şırnak</option>
+            <option value=\\"59\\">Tekirdağ</option>
+            <option value=\\"60\\">Tokat</option>
+            <option value=\\"61\\">Trabzon</option>
+            <option value=\\"62\\">Tunceli</option>
+            <option value=\\"64\\">Uşak</option>
+            <option value=\\"65\\">Van</option>
+            <option value=\\"77\\">Yalova</option>
+            <option value=\\"66\\">Yozgat</option>
+            <option value=\\"67\\">Zonguldak</option>
+          </select><sup style=\\"color: red; vertical-align: top;\\">*</sup><span title=\\"\\" id=\\"gf_info_city\\" class=\\"gf_info\\"></span></div>
+      </li>
+      <li class=\\"sf-form-item-fullwidth\\">
+        <div><span id=\\"error_semt\\" class=\\"hata\\"></span><sup style=\\"color: red; vertical-align: top;\\">*</sup><span title=\\"\\" id=\\"gf_info_semt\\" class=\\"gf_info\\"></span></div>
+      </li>
+      <li class=\\"sf-form-item-fullwidth\\">
+        <div><label class=\\"sf-text-label\\">Adresiniz</label><textarea placeholder=\\"\\" id=\\"gf_address\\" rows=\\"6\\" cols=\\"60\\" name=\\"data_address\\" class=\\"sf-form-textarea gf_address\\"></textarea><sup style=\\"color: red; vertical-align: top;\\">*</sup><span title=\\"\\" id=\\"gf_info_address\\" class=\\"gf_info\\"></span></div>
+      </li>
+      <div class=\\"bireysel\\"></div>
+      <div class=\\"kurumsal\\"></div>
+      <li class=\\"sf-form-item-fullwidth\\">
+        <div><label class=\\"sf-text-label\\">Cep Telefonunuz</label><input placeholder=\\"\\" onfocus=\\"lastFocusedId=this.id\\" id=\\"gf_ceptel\\" type=\\"text\\" name=\\"data_ceptel\\" value=\\"\\" maxlength=\\"14\\" class=\\"sf-form-input gf_ceptel\\"><sup style=\\"color: red; vertical-align: top;\\">*</sup><span title=\\"\\" id=\\"gf_info_ceptel\\" class=\\"gf_info\\"></span></div>
+      </li>
+      <li class=\\"sf-form-header\\"></li>
+      <li class=\\"sf-form-item-fullwidth\\">
+        <div><label class=\\"sf-text-label\\">E-Bülten (Email)</label><select id=\\"gf_ebulten\\" name=\\"data_ebulten\\" class=\\"sf-form-select\\">
+            <option value=\\"\\">Lütfen Seçin</option>
+            <option value=\\"1\\">Evet</option>
+            <option value=\\"2\\">Hayır</option>
+          </select><sup style=\\"color: red; vertical-align: top;\\">*</sup><span title=\\"\\" id=\\"gf_info_ebulten\\" class=\\"gf_info\\"></span></div>
+      </li>
+      <li class=\\"sf-form-header\\"></li>
+      <li class=\\"sf-form-item-fullwidth\\">
+        <div><label class=\\"sf-text-label\\">Kişisel Verilerin Korunması</label>
+          <div style=\\"clear: both;\\"></div><textarea readonly=\\"readonly\\" id=\\"gf_acceptRules\\" class=\\"gf_textarea acceptRules sf-form-textarea stn-dialoguye\\">1. Taraflar
+a) http://www.ofispazar.com internet sitesinin faaliyetlerini yürüten Mecidikuyu Sokak NO.18/a Giriş Katı Mecidiyeköy Şişli,  İstanbul adresinde mukim E-Ticaret Portalı (Bundan böyle \\"Ofisjet Bilişim San.ve Tic. Ltd. Şti.\\" olarak anılacaktır). 
+b) http://www.ofispazar.com internet sitesine üye olan internet kullanıcısı (\\"Üye\\")
+2. Sözleşmenin Konusu
+İşbu Sözleşme'nin konusu Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın sahip olduğu internet sitesi http://www.ofispazar.com 'dan üyenin faydalanma şartlarının belirlenmesidir.
+
+3. Tarafların Hak ve Yükümlülükleri
+
+3.1. Üye, http://www.ofispazar.com internet sitesine üye olurken verdiği kişisel ve diğer sair bilgilerin kanunlar önünde doğru olduğunu, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın bu bilgilerin gerçeğe aykırılığı nedeniyle uğrayacağı tüm zararları aynen ve derhal tazmin edeceğini beyan ve taahhüt eder. 
+3.2. Üye, Ofisjet Bilişim San. ve Tic. Ltd. Şti. tarafından kendisine verilmiş olan şifreyi başka kişi ya da kuruluşlara veremez, üyenin sözkonusu şifreyi kullanma hakkı bizzat kendisine aittir. Bu sebeple doğabilecek tüm sorumluluk ile üçüncü kişiler veya yetkili merciler tarafından Ofisjet Bilişim San. ve Tic. Ltd. Şti.'ya karşı ileri sürülebilecek tüm iddia ve taleplere karşı, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın sözkonusu izinsiz kullanımdan kaynaklanan her türlü tazminat ve sair talep hakkı saklıdır. 
+3.3. Üye http://www.ofispazar.com internet sitesini kullanırken yasal mevzuat hükümlerine riayet etmeyi ve bunları ihlal etmemeyi baştan kabul ve taahhüt eder. Aksi takdirde, doğacak tüm hukuki ve cezai yükümlülükler tamamen ve münhasıran üyeyi bağlayacaktır. 
+3.4. Üye, http://www.ofispazar.com internet sitesini hiçbir şekilde kamu düzenini bozucu, genel ahlaka aykırı, başkalarını rahatsız ve taciz edici şekilde, yasalara aykırı bir amaç için, başkalarının fikri ve telif haklarına tecavüz edecek şekilde kullanamaz. Ayrıca, üye başkalarının hizmetleri kullanmasını önleyici veya zorlaştırıcı faaliyet (spam, virus, truva atı, vb.) ve işlemlerde bulunamaz. 
+3.5. http://www.ofispazar.com internet sitesinde üyeler tarafından beyan edilen, yazılan, kullanılan fikir ve düşünceler, tamamen üyelerin kendi kişisel görüşleridir ve görüş sahibini bağlar. Bu görüş ve düşüncelerin Ofisjet Bilişim San. ve Tic. Ltd. Şti.'yla hiçbir ilgi ve bağlantısı yoktur. Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın üyenin beyan edeceği fikir ve görüşler nedeniyle üçüncü kişilerin uğrayabileceği zararlardan ve üçüncü kişilerin beyan edeceği fikir ve görüşler nedeniyle üyenin uğrayabileceği zararlardan dolayı herhangi bir sorumluluğu bulunmamaktadır. 
+3.6. Ofisjet Bilişim San. ve Tic. Ltd. Şti., üye verilerinin yetkisiz kişilerce okunmasından ve üye yazılım ve verilerine gelebilecek zararlardan dolayı sorumlu olmayacaktır. Üye, http://www.ofispazar.com internet sitesinin kullanılmasından dolayı uğrayabileceği herhangi bir zarar yüzünden Ofisjet Bilişim San. ve Tic. Ltd. Şti.'dan tazminat talep etmemeyi peşinen kabul etmiştir. 
+3.7. Üye, diğer internet kullanıcılarının yazılımlarına ve verilerine izinsiz olarak ulaşmamayı veya bunları kullanmamayı kabul etmiştir. Aksi takdirde, bundan doğacak hukuki ve cezai sorumluluklar tamamen üyeye aittir. 
+3.8. İşbu üyelik sözleşmesi içerisinde sayılan maddelerden bir ya da birkaçını ihlal eden üye işbu ihlal nedeniyle cezai ve hukuki olarak şahsen sorumlu olup, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'yı bu ihlallerin hukuki ve cezai sonuçlarından ari tutacaktır. Ayrıca; işbu ihlal nedeniyle, olayın hukuk alanına intikal ettirilmesi halinde, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın üyeye karşı üyelik sözleşmesine uyulmamasından dolayı tazminat talebinde bulunma hakkı saklıdır. 
+3.9. Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın her zaman tek taraflı olarak gerektiğinde üyenin üyeliğini silme, müşteriye ait dosya, belge ve bilgileri silme hakkı vardır. Üye işbu tasarrufu önceden kabul eder. Bu durumda, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın hiçbir sorumluluğu yoktur. 
+3.10. http://www.ofispazar.com internet sitesi yazılım ve tasarımı Ofisjet Bilişim San. ve Tic. Ltd. Şti. mülkiyetinde olup, bunlara ilişkin telif hakkı ve/veya diğer fikri mülkiyet hakları ilgili kanunlarca korunmakta olup, bunlar üye tarafından izinsiz kullanılamaz, iktisap edilemez ve değiştirilemez. Bu web sitesinde adı geçen başkaca şirketler ve ürünleri sahiplerinin ticari markalarıdır ve ayrıca fikri mülkiyet hakları kapsamında korunmaktadır. 
+3.11. Ofisjet Bilişim San. ve Tic. Ltd. Şti. tarafından http://www.ofispazar.com internet sitesinin iyileştirilmesi, geliştirilmesine yönelik olarak ve/veya yasal mevzuat çerçevesinde siteye erişmek için kullanılan İnternet servis sağlayıcısının adı ve Internet Protokol (IP) adresi, Siteye erişilen tarih ve saat, sitede bulunulan sırada erişilen sayfalar ve siteye doğrudan bağlanılmasını sağlayan Web sitesinin Internet adresi gibi birtakım bilgiler toplanabilir. 
+3.12. Ofisjet Bilişim San. ve Tic. Ltd. Şti. kullanıcılarına daha iyi hizmet sunmak, ürünlerini ve hizmetlerini iyileştirmek, sitenin kullanımını kolaylaştırmak için kullanımını kullanıcılarının özel tercihlerine ve ilgi alanlarına yönelik çalışmalarda üyelerin kişisel bilgilerini kullanabilir. Ofisjet Bilişim San. ve Tic. Ltd. Şti., üyenin http://www.ofispazar.com internet sitesi üzerinde yaptığı hareketlerin kaydını bulundurma hakkını saklı tutar. 
+3.13. Ofisjet Bilişim San. ve Tic. Ltd. Şti.'ya üye olan kişi, yürürlükte bulunan ve/veya yürürlüğe alınacak uygulamalar kapsamında Ofisjet Bilişim San. ve Tic. Ltd. Şti. tarafından kendisine ürün ve hizmet tanıtımları, reklamlar, kampanyalar, avantajlar, anketler ve diğer müşteri memnuniyeti uygulamaları sunulmasına izin verdiğini beyan ve kabul eder. Üye, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'ya üye olurken ve/veya başka yollarla geçmişte vermiş olduğu ve/veya gelecekte vereceği kişisel ve alışveriş bilgilerinin ve alışveriş ve/veya tüketici davranış bilgilerinin yukarıdaki amaçlarla toplanmasına, iştiraki olan tüm şirketler ile paylaşılmasına, Ofisjet Bilişim San. ve Tic. Ltd. Şti. ve iştiraki olan tüm şirketler tarafından kullanılmasına ve arşivlenmesine izin verdiğini beyan ve kabul eder. Üye aksini bildirmediği sürece üyeliği sona erdiğinde de verilerin toplanmasına, iştiraki olan tüm şirketler ile paylaşılmasına, Ofisjet Bilişim San. ve Tic. Ltd. Şti. ve iştiraki olan tüm şirketler tarafından kullanılmasına ve arşivlenmesine izin verdiğini beyan ve kabul eder. Üye aksini bildirmediği sürece Ofisjet Bilişim San. ve Tic. Ltd. Şti. ve iştiraki olan tüm şirketlerin kendisi ile internet, telefon, SMS, vb iletişim kanalları kullanarak irtibata geçmesine izin verdiğini beyan ve kabul eder. Üye yukarıda bahsi geçen bilgilerin toplanması, paylaşılması, kullanılması, arşivlenmesi ve kendisine erişilmesi nedeniyle doğrudan ve/veya dolaylı maddi ve/veya manevi menfi ve/veya müsbet, velhasıl herhangi bir zarara uğradığı konusunda talepte bulunmayacağını ve Ofisjet Bilişim San. ve Tic. Ltd. Şti. ve iştiraki olan şirketleri sorumlu tutmayacağını beyan ve kabul eder. Üye veri paylaşım tercihlerini değiştirmek isterse, bu talebini Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın müşteri hizmetleri çağrı merkezlerine iletebilir. 
+3.14. Ofisjet Bilişim San. ve Tic. Ltd. Şti., üyenin kişisel bilgilerini yasal bir zorunluluk olarak istendiğinde veya 
+a) yasal gereklere uygun hareket etmek veya Ofisjet Bilişim San. ve Tic. Ltd. Şti.'ya tebliğ edilen yasal işlemlere uymak; 
+b) Ofisjet Bilişim San. ve Tic. Ltd. Şti. ve Ofisjet Bilişim San. ve Tic. Ltd. Şti. web sitesi ailesinin haklarını ve mülkiyetini korumak ve savunmak için gerekli olduğuna iyi niyetle kanaat getirdiği hallerde açıklayabilir. 
+3.15. Ofisjet Bilişim San. ve Tic. Ltd. Şti. web sitesinin virus ve benzeri amaçlı yazılımlardan arındırılmış olması için mevcut imkanlar dahilinde tedbir alınmıştır. Bunun yanında nihai güvenliğin sağlanması için kullanıcının, kendi virus koruma sistemini tedarik etmesi ve gerekli korunmayı sağlaması gerekmektedir. Bu bağlamda üye Ofisjet Bilişim San. ve Tic. Ltd. Şti. web sitesi'ne girmesiyle, kendi yazılım ve işletim sistemlerinde oluşabilecek tüm hata ve bunların doğrudan yada dolaylı sonuçlarından kendisinin sorumlu olduğunu kabul etmiş sayılır. 
+3.16. Ofisjet Bilişim San. ve Tic. Ltd. Şti., sitenin içeriğini dilediği zaman değiştirme, kullanıcılara sağlanan herhangi bir hizmeti değiştirme yada sona erdirme veya Ofisjet Bilişim San. ve Tic. Ltd. Şti. web sitesi'nde kayıtlı kullanıcı bilgi ve verilerini silme hakkını saklı tutar. 
+3.17. Ofisjet Bilişim San. ve Tic. Ltd. Şti., üyelik sözleşmesinin koşullarını hiçbir şekil ve surette ön ihbara ve/veya ihtara gerek kalmaksızın her zaman değiştirebilir, güncelleyebilir veya iptal edebilir. Değiştirilen, güncellenen yada yürürlükten kaldırılan her hüküm , yayın tarihinde tüm üyeler bakımından hüküm ifade edecektir. 
+3.18. Taraflar, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'ya ait tüm bilgisayar kayıtlarının tek ve gerçek münhasır delil olarak, HUMK madde 287'ye uygun şekilde esas alınacağını ve söz konusu kayıtların bir delil sözleşmesi teşkil ettiği hususunu kabul ve beyan eder. 
+3.19. Ofisjet Bilişim San. ve Tic. Ltd. Şti., iş bu üyelik sözleşmesi uyarınca, üyelerinin kendisinde kayıtlı elektronik posta adreslerine bilgilendirme mailleri ve cep telefonlarına bilgilendirme SMS'leri gönderme yetkisine sahip olmakla beraber, üye işbu üyelik sözleşmesini onaylamasıyla beraber bilgilendirme maillerinin elektronik posta adresine ve bilgilendirme SMS'lerinin cep telefonuna gönderilmesini kabul etmiş sayılacaktır.
+4. Sözleşmenin Feshi
+İşbu sözleşme üyenin üyeliğini iptal etmesi veya Ofisjet Bilişim San. ve Tic. Ltd. Şti. tarafından üyeliğinin iptal edilmesine kadar yürürlükte kalacaktır. Ofisjet Bilişim San. ve Tic. Ltd. Şti. üyenin üyelik sözleşmesinin herhangi bir hükmünü ihlal etmesi durumunda üyenin üyeliğini iptal ederek sözleşmeyi tek taraflı olarak feshedebilecektir.
+5. İhtilaflerin Halli
+İşbu sözleşmeye ilişkin ihtilaflerde İstanbul Mahkemeleri ve İcra Daireleri yetkilidir.
+6. Yürürlük
+Üyenin, üyelik kaydı yapması üyenin üyelik sözleşmesinde yer alan tüm maddeleri okuduğu ve üyelik sözleşmesinde yer alan maddeleri kabul ettiği anlamına gelir. İşbu Sözleşme üyenin üye olması anında akdedilmiş ve karşılıklı olarak yürürlülüğe girmiştir.
+
+</textarea>
+          <div style=\\"clear: both;\\"></div>
+          <div class=\\"checkbox-fa\\"><input id=\\"gf_acceptRulesCB_kvkk\\" type=\\"checkbox\\" class=\\"sf-form-checkbox\\"><label for=\\"gf_acceptRulesCB_kvkk\\" formid=\\"form_ee170\\" class=\\"sf-form-info st-form-onay\\">Sözleşmeyi okudum ve onaylıyorum.</label></div>
+          <div title=\\"654293893 No'lu Sipariş - Satın Alma Kuralları\\" class=\\"stn-dialog viewStnOB\\"></div>
+          <div title=\\"654293893 No'lu Sipariş - Mesafeli Satış Sözleşmesi\\" class=\\"stn-dialog viewStnSAK\\"></div><sup style=\\"color: red; vertical-align: top;\\">*</sup><span title=\\"\\" id=\\"gf_info_kvkk\\" class=\\"gf_info\\"></span>
+        </div>
+      </li>
+      <li class=\\"sf-form-item-fullwidth\\">
+        <div><label class=\\"sf-text-label\\">Üyelik Kuralları</label>
+          <div style=\\"clear: both;\\"></div><textarea readonly=\\"readonly\\" id=\\"gf_acceptRules\\" class=\\"gf_textarea acceptRules sf-form-textarea stn-dialoguye\\">İK SÖZLEŞMESİ ve KULLANIM KOŞULLARI
+1. Taraflar
+a) http://www.ofispazar.com internet sitesinin faaliyetlerini yürüten Mecidikuyu Sokak NO.18/a Giriş Katı Mecidiyeköy Şişli,  İstanbul adresinde mukim E-Ticaret Portalı (Bundan böyle \\"Ofisjet Bilişim San.ve Tic. Ltd. Şti.\\" olarak anılacaktır). 
+b) http://www.ofispazar.com internet sitesine üye olan internet kullanıcısı (\\"Üye\\")
+2. Sözleşmenin Konusu
+İşbu Sözleşme'nin konusu Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın sahip olduğu internet sitesi http://www.ofispazar.com 'dan üyenin faydalanma şartlarının belirlenmesidir.
+
+3. Tarafların Hak ve Yükümlülükleri
+
+3.1. Üye, http://www.ofispazar.com internet sitesine üye olurken verdiği kişisel ve diğer sair bilgilerin kanunlar önünde doğru olduğunu, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın bu bilgilerin gerçeğe aykırılığı nedeniyle uğrayacağı tüm zararları aynen ve derhal tazmin edeceğini beyan ve taahhüt eder. 
+3.2. Üye, Ofisjet Bilişim San. ve Tic. Ltd. Şti. tarafından kendisine verilmiş olan şifreyi başka kişi ya da kuruluşlara veremez, üyenin sözkonusu şifreyi kullanma hakkı bizzat kendisine aittir. Bu sebeple doğabilecek tüm sorumluluk ile üçüncü kişiler veya yetkili merciler tarafından Ofisjet Bilişim San. ve Tic. Ltd. Şti.'ya karşı ileri sürülebilecek tüm iddia ve taleplere karşı, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın sözkonusu izinsiz kullanımdan kaynaklanan her türlü tazminat ve sair talep hakkı saklıdır. 
+3.3. Üye http://www.ofispazar.com internet sitesini kullanırken yasal mevzuat hükümlerine riayet etmeyi ve bunları ihlal etmemeyi baştan kabul ve taahhüt eder. Aksi takdirde, doğacak tüm hukuki ve cezai yükümlülükler tamamen ve münhasıran üyeyi bağlayacaktır. 
+3.4. Üye, http://www.ofispazar.com internet sitesini hiçbir şekilde kamu düzenini bozucu, genel ahlaka aykırı, başkalarını rahatsız ve taciz edici şekilde, yasalara aykırı bir amaç için, başkalarının fikri ve telif haklarına tecavüz edecek şekilde kullanamaz. Ayrıca, üye başkalarının hizmetleri kullanmasını önleyici veya zorlaştırıcı faaliyet (spam, virus, truva atı, vb.) ve işlemlerde bulunamaz. 
+3.5. http://www.ofispazar.com internet sitesinde üyeler tarafından beyan edilen, yazılan, kullanılan fikir ve düşünceler, tamamen üyelerin kendi kişisel görüşleridir ve görüş sahibini bağlar. Bu görüş ve düşüncelerin Ofisjet Bilişim San. ve Tic. Ltd. Şti.'yla hiçbir ilgi ve bağlantısı yoktur. Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın üyenin beyan edeceği fikir ve görüşler nedeniyle üçüncü kişilerin uğrayabileceği zararlardan ve üçüncü kişilerin beyan edeceği fikir ve görüşler nedeniyle üyenin uğrayabileceği zararlardan dolayı herhangi bir sorumluluğu bulunmamaktadır. 
+3.6. Ofisjet Bilişim San. ve Tic. Ltd. Şti., üye verilerinin yetkisiz kişilerce okunmasından ve üye yazılım ve verilerine gelebilecek zararlardan dolayı sorumlu olmayacaktır. Üye, http://www.ofispazar.com internet sitesinin kullanılmasından dolayı uğrayabileceği herhangi bir zarar yüzünden Ofisjet Bilişim San. ve Tic. Ltd. Şti.'dan tazminat talep etmemeyi peşinen kabul etmiştir. 
+3.7. Üye, diğer internet kullanıcılarının yazılımlarına ve verilerine izinsiz olarak ulaşmamayı veya bunları kullanmamayı kabul etmiştir. Aksi takdirde, bundan doğacak hukuki ve cezai sorumluluklar tamamen üyeye aittir. 
+3.8. İşbu üyelik sözleşmesi içerisinde sayılan maddelerden bir ya da birkaçını ihlal eden üye işbu ihlal nedeniyle cezai ve hukuki olarak şahsen sorumlu olup, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'yı bu ihlallerin hukuki ve cezai sonuçlarından ari tutacaktır. Ayrıca; işbu ihlal nedeniyle, olayın hukuk alanına intikal ettirilmesi halinde, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın üyeye karşı üyelik sözleşmesine uyulmamasından dolayı tazminat talebinde bulunma hakkı saklıdır. 
+3.9. Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın her zaman tek taraflı olarak gerektiğinde üyenin üyeliğini silme, müşteriye ait dosya, belge ve bilgileri silme hakkı vardır. Üye işbu tasarrufu önceden kabul eder. Bu durumda, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın hiçbir sorumluluğu yoktur. 
+3.10. http://www.ofispazar.com internet sitesi yazılım ve tasarımı Ofisjet Bilişim San. ve Tic. Ltd. Şti. mülkiyetinde olup, bunlara ilişkin telif hakkı ve/veya diğer fikri mülkiyet hakları ilgili kanunlarca korunmakta olup, bunlar üye tarafından izinsiz kullanılamaz, iktisap edilemez ve değiştirilemez. Bu web sitesinde adı geçen başkaca şirketler ve ürünleri sahiplerinin ticari markalarıdır ve ayrıca fikri mülkiyet hakları kapsamında korunmaktadır. 
+3.11. Ofisjet Bilişim San. ve Tic. Ltd. Şti. tarafından http://www.ofispazar.com internet sitesinin iyileştirilmesi, geliştirilmesine yönelik olarak ve/veya yasal mevzuat çerçevesinde siteye erişmek için kullanılan İnternet servis sağlayıcısının adı ve Internet Protokol (IP) adresi, Siteye erişilen tarih ve saat, sitede bulunulan sırada erişilen sayfalar ve siteye doğrudan bağlanılmasını sağlayan Web sitesinin Internet adresi gibi birtakım bilgiler toplanabilir. 
+3.12. Ofisjet Bilişim San. ve Tic. Ltd. Şti. kullanıcılarına daha iyi hizmet sunmak, ürünlerini ve hizmetlerini iyileştirmek, sitenin kullanımını kolaylaştırmak için kullanımını kullanıcılarının özel tercihlerine ve ilgi alanlarına yönelik çalışmalarda üyelerin kişisel bilgilerini kullanabilir. Ofisjet Bilişim San. ve Tic. Ltd. Şti., üyenin http://www.ofispazar.com internet sitesi üzerinde yaptığı hareketlerin kaydını bulundurma hakkını saklı tutar. 
+3.13. Ofisjet Bilişim San. ve Tic. Ltd. Şti.'ya üye olan kişi, yürürlükte bulunan ve/veya yürürlüğe alınacak uygulamalar kapsamında Ofisjet Bilişim San. ve Tic. Ltd. Şti. tarafından kendisine ürün ve hizmet tanıtımları, reklamlar, kampanyalar, avantajlar, anketler ve diğer müşteri memnuniyeti uygulamaları sunulmasına izin verdiğini beyan ve kabul eder. Üye, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'ya üye olurken ve/veya başka yollarla geçmişte vermiş olduğu ve/veya gelecekte vereceği kişisel ve alışveriş bilgilerinin ve alışveriş ve/veya tüketici davranış bilgilerinin yukarıdaki amaçlarla toplanmasına, iştiraki olan tüm şirketler ile paylaşılmasına, Ofisjet Bilişim San. ve Tic. Ltd. Şti. ve iştiraki olan tüm şirketler tarafından kullanılmasına ve arşivlenmesine izin verdiğini beyan ve kabul eder. Üye aksini bildirmediği sürece üyeliği sona erdiğinde de verilerin toplanmasına, iştiraki olan tüm şirketler ile paylaşılmasına, Ofisjet Bilişim San. ve Tic. Ltd. Şti. ve iştiraki olan tüm şirketler tarafından kullanılmasına ve arşivlenmesine izin verdiğini beyan ve kabul eder. Üye aksini bildirmediği sürece Ofisjet Bilişim San. ve Tic. Ltd. Şti. ve iştiraki olan tüm şirketlerin kendisi ile internet, telefon, SMS, vb iletişim kanalları kullanarak irtibata geçmesine izin verdiğini beyan ve kabul eder. Üye yukarıda bahsi geçen bilgilerin toplanması, paylaşılması, kullanılması, arşivlenmesi ve kendisine erişilmesi nedeniyle doğrudan ve/veya dolaylı maddi ve/veya manevi menfi ve/veya müsbet, velhasıl herhangi bir zarara uğradığı konusunda talepte bulunmayacağını ve Ofisjet Bilişim San. ve Tic. Ltd. Şti. ve iştiraki olan şirketleri sorumlu tutmayacağını beyan ve kabul eder. Üye veri paylaşım tercihlerini değiştirmek isterse, bu talebini Ofisjet Bilişim San. ve Tic. Ltd. Şti.'nın müşteri hizmetleri çağrı merkezlerine iletebilir. 
+3.14. Ofisjet Bilişim San. ve Tic. Ltd. Şti., üyenin kişisel bilgilerini yasal bir zorunluluk olarak istendiğinde veya 
+a) yasal gereklere uygun hareket etmek veya Ofisjet Bilişim San. ve Tic. Ltd. Şti.'ya tebliğ edilen yasal işlemlere uymak; 
+b) Ofisjet Bilişim San. ve Tic. Ltd. Şti. ve Ofisjet Bilişim San. ve Tic. Ltd. Şti. web sitesi ailesinin haklarını ve mülkiyetini korumak ve savunmak için gerekli olduğuna iyi niyetle kanaat getirdiği hallerde açıklayabilir. 
+3.15. Ofisjet Bilişim San. ve Tic. Ltd. Şti. web sitesinin virus ve benzeri amaçlı yazılımlardan arındırılmış olması için mevcut imkanlar dahilinde tedbir alınmıştır. Bunun yanında nihai güvenliğin sağlanması için kullanıcının, kendi virus koruma sistemini tedarik etmesi ve gerekli korunmayı sağlaması gerekmektedir. Bu bağlamda üye Ofisjet Bilişim San. ve Tic. Ltd. Şti. web sitesi'ne girmesiyle, kendi yazılım ve işletim sistemlerinde oluşabilecek tüm hata ve bunların doğrudan yada dolaylı sonuçlarından kendisinin sorumlu olduğunu kabul etmiş sayılır. 
+3.16. Ofisjet Bilişim San. ve Tic. Ltd. Şti., sitenin içeriğini dilediği zaman değiştirme, kullanıcılara sağlanan herhangi bir hizmeti değiştirme yada sona erdirme veya Ofisjet Bilişim San. ve Tic. Ltd. Şti. web sitesi'nde kayıtlı kullanıcı bilgi ve verilerini silme hakkını saklı tutar. 
+3.17. Ofisjet Bilişim San. ve Tic. Ltd. Şti., üyelik sözleşmesinin koşullarını hiçbir şekil ve surette ön ihbara ve/veya ihtara gerek kalmaksızın her zaman değiştirebilir, güncelleyebilir veya iptal edebilir. Değiştirilen, güncellenen yada yürürlükten kaldırılan her hüküm , yayın tarihinde tüm üyeler bakımından hüküm ifade edecektir. 
+3.18. Taraflar, Ofisjet Bilişim San. ve Tic. Ltd. Şti.'ya ait tüm bilgisayar kayıtlarının tek ve gerçek münhasır delil olarak, HUMK madde 287'ye uygun şekilde esas alınacağını ve söz konusu kayıtların bir delil sözleşmesi teşkil ettiği hususunu kabul ve beyan eder. 
+3.19. Ofisjet Bilişim San. ve Tic. Ltd. Şti., iş bu üyelik sözleşmesi uyarınca, üyelerinin kendisinde kayıtlı elektronik posta adreslerine bilgilendirme mailleri ve cep telefonlarına bilgilendirme SMS'leri gönderme yetkisine sahip olmakla beraber, üye işbu üyelik sözleşmesini onaylamasıyla beraber bilgilendirme maillerinin elektronik posta adresine ve bilgilendirme SMS'lerinin cep telefonuna gönderilmesini kabul etmiş sayılacaktır.
+4. Sözleşmenin Feshi
+İşbu sözleşme üyenin üyeliğini iptal etmesi veya Ofisjet Bilişim San. ve Tic. Ltd. Şti. tarafından üyeliğinin iptal edilmesine kadar yürürlükte kalacaktır. Ofisjet Bilişim San. ve Tic. Ltd. Şti. üyenin üyelik sözleşmesinin herhangi bir hükmünü ihlal etmesi durumunda üyenin üyeliğini iptal ederek sözleşmeyi tek taraflı olarak feshedebilecektir.
+5. İhtilaflerin Halli
+İşbu sözleşmeye ilişkin ihtilaflerde İstanbul Mahkemeleri ve İcra Daireleri yetkilidir.
+6. Yürürlük
+Üyenin, üyelik kaydı yapması üyenin üyelik sözleşmesinde yer alan tüm maddeleri okuduğu ve üyelik sözleşmesinde yer alan maddeleri kabul ettiği anlamına gelir. İşbu Sözleşme üyenin üye olması anında akdedilmiş ve karşılıklı olarak yürürlülüğe girmiştir.
+
+</textarea>
+          <div style=\\"clear: both;\\"></div>
+          <div class=\\"checkbox-fa\\"><input id=\\"gf_acceptRulesCB_uyelikKural\\" type=\\"checkbox\\" class=\\"sf-form-checkbox\\"><label for=\\"gf_acceptRulesCB_uyelikKural\\" formid=\\"form_ee170\\" class=\\"sf-form-info st-form-onay\\">Sözleşmeyi okudum ve onaylıyorum.</label></div>
+          <div title=\\"654293893 No'lu Sipariş - Satın Alma Kuralları\\" class=\\"stn-dialog viewStnOB\\"></div>
+          <div title=\\"654293893 No'lu Sipariş - Mesafeli Satış Sözleşmesi\\" class=\\"stn-dialog viewStnSAK\\"></div><sup style=\\"color: red; vertical-align: top;\\">*</sup><span title=\\"\\" id=\\"gf_info_uyelikKural\\" class=\\"gf_info\\"></span>
+        </div>
+      </li>
+      <li class=\\"sf-form-header\\"></li>
+      <li class=\\"sf-form-item-fullwidth clear\\"><input type=\\"submit\\" value=\\"Gönder\\" class=\\"sf-button sf-button-large sf-neutral-button\\"></li>
+    </ul>
+  </div>
+</div>"
+`;
